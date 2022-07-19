@@ -358,6 +358,31 @@ body{
     font-size: 15px;
     color: black;
 }
+.dot{
+
+}
+.dot-1{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: #ffc045;
+    float: left;
+}
+.dot-2{
+    margin: 0 5px 0 5px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: #dcdcdc;
+    float: left;
+}
+.dot-3{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: #dcdcdc;
+    float: left;
+}
 .e_right{
 	margin-top: 5px;
 	margin-right: 15px;
