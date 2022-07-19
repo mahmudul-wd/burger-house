@@ -128,12 +128,12 @@ body{
     margin-bottom: 0px;
     padding: 5px 0 5px 0;
     border: 1px dashed black;
-    width: 60%;
+    width: 55%;
     text-align: center;
 }
 .b_left h1{
     margin: -10px 0 -35px 0;
-    font-size: 85px;
+    font-size: 100px;
     font-family: alfa_slab_one;
     letter-spacing: 5px;
     text-shadow: 5px 4px 2px white;
